@@ -2,4 +2,6 @@
  1. inex.html
  2. Style.css
  3. App.js
-
+1. inex.html
+ 2. Style.css
+ 3. App.js
